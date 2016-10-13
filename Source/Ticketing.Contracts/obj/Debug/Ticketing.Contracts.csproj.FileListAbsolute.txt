@@ -1,0 +1,9 @@
+D:\Workspaces\Feedback\ModelDecadence\Main\Source\Ticketing.Contracts\bin\Debug\Ticketing.Contracts.dll
+D:\Workspaces\Feedback\ModelDecadence\Main\Source\Ticketing.Contracts\bin\Debug\Ticketing.Contracts.pdb
+D:\Workspaces\Feedback\ModelDecadence\Main\Source\Ticketing.Contracts\obj\Debug\Ticketing.Contracts.dll
+D:\Workspaces\Feedback\ModelDecadence\Main\Source\Ticketing.Contracts\obj\Debug\Ticketing.Contracts.pdb
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.Contracts\bin\Debug\Ticketing.Contracts.dll
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.Contracts\bin\Debug\Ticketing.Contracts.pdb
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.Contracts\obj\Debug\Ticketing.Contracts.csprojResolveAssemblyReference.cache
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.Contracts\obj\Debug\Ticketing.Contracts.dll
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.Contracts\obj\Debug\Ticketing.Contracts.pdb

@@ -1,0 +1,14 @@
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\obj\Debug\Ticketing.IoC.csprojResolveAssemblyReference.cache
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\bin\Debug\Ticketing.IoC.dll
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\bin\Debug\Ticketing.IoC.pdb
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\bin\Debug\StructureMap.dll
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\bin\Debug\Ticketing.Infrastructure.dll
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\bin\Debug\Ticketing.Model.dll
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\bin\Debug\Ticketing.Repository.dll
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\bin\Debug\Ticketing.Services.dll
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\bin\Debug\Ticketing.Infrastructure.pdb
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\bin\Debug\Ticketing.Model.pdb
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\bin\Debug\Ticketing.Repository.pdb
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\bin\Debug\Ticketing.Services.pdb
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\obj\Debug\Ticketing.IoC.dll
+D:\Workspaces\Feedback\ModelAnemia\Main\Source\Ticketing.IoC\obj\Debug\Ticketing.IoC.pdb

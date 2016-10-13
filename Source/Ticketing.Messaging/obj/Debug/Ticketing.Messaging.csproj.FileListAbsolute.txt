@@ -1,0 +1,5 @@
+D:\Workspaces\Feedback\ModelDecadence\Main\Source\Ticketing.Messaging\bin\Debug\Ticketing.Messaging.dll
+D:\Workspaces\Feedback\ModelDecadence\Main\Source\Ticketing.Messaging\bin\Debug\Ticketing.Messaging.pdb
+D:\Workspaces\Feedback\ModelDecadence\Main\Source\Ticketing.Messaging\obj\Debug\Ticketing.Messaging.csprojResolveAssemblyReference.cache
+D:\Workspaces\Feedback\ModelDecadence\Main\Source\Ticketing.Messaging\obj\Debug\Ticketing.Messaging.dll
+D:\Workspaces\Feedback\ModelDecadence\Main\Source\Ticketing.Messaging\obj\Debug\Ticketing.Messaging.pdb

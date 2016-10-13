@@ -1,0 +1,3 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" 
+    Service="Ticketing.Services.ClientService" 
+    Factory="Ticketing.IoC.StructureMapServiceHostFactory" %>

@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Infrastructure", "Ticketing.Infrastructure\Ticketing.Infrastructure.csproj", "{CC088C34-AE15-4B3D-8E04-B0CDB212CBB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Model", "Ticketing.Model\Ticketing.Model.csproj", "{7722A137-7ED5-4662-9B82-08D9360D58E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Repository", "Ticketing.Repository\Ticketing.Repository.csproj", "{0CC20330-FDFD-4C06-964A-595877D4CCD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.Services", "Ticketing.Services\Ticketing.Services.csproj", "{DA72F3AE-7C49-4AC7-BE8C-47D0FEF84F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.WebHost", "Ticketing.WebHost\Ticketing.WebHost.csproj", "{B66E897E-6EE4-43A2-B79B-24767E100DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ticketing.IoC", "Ticketing.IoC\Ticketing.IoC.csproj", "{84D66105-1D6D-4BDC-9F02-07A5B7124658}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC088C34-AE15-4B3D-8E04-B0CDB212CBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC088C34-AE15-4B3D-8E04-B0CDB212CBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC088C34-AE15-4B3D-8E04-B0CDB212CBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC088C34-AE15-4B3D-8E04-B0CDB212CBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7722A137-7ED5-4662-9B82-08D9360D58E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7722A137-7ED5-4662-9B82-08D9360D58E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7722A137-7ED5-4662-9B82-08D9360D58E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7722A137-7ED5-4662-9B82-08D9360D58E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC20330-FDFD-4C06-964A-595877D4CCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC20330-FDFD-4C06-964A-595877D4CCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC20330-FDFD-4C06-964A-595877D4CCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC20330-FDFD-4C06-964A-595877D4CCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA72F3AE-7C49-4AC7-BE8C-47D0FEF84F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA72F3AE-7C49-4AC7-BE8C-47D0FEF84F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA72F3AE-7C49-4AC7-BE8C-47D0FEF84F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA72F3AE-7C49-4AC7-BE8C-47D0FEF84F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66E897E-6EE4-43A2-B79B-24767E100DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66E897E-6EE4-43A2-B79B-24767E100DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66E897E-6EE4-43A2-B79B-24767E100DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66E897E-6EE4-43A2-B79B-24767E100DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D66105-1D6D-4BDC-9F02-07A5B7124658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D66105-1D6D-4BDC-9F02-07A5B7124658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D66105-1D6D-4BDC-9F02-07A5B7124658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D66105-1D6D-4BDC-9F02-07A5B7124658}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://feedback.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Ticketing.Infrastructure\\Ticketing.Infrastructure.csproj
+		SccProjectName1 = Ticketing.Infrastructure
+		SccLocalPath1 = Ticketing.Infrastructure
+		SccProjectUniqueName2 = Ticketing.Model\\Ticketing.Model.csproj
+		SccProjectName2 = Ticketing.Model
+		SccLocalPath2 = Ticketing.Model
+		SccProjectUniqueName3 = Ticketing.Repository\\Ticketing.Repository.csproj
+		SccProjectName3 = Ticketing.Repository
+		SccLocalPath3 = Ticketing.Repository
+		SccProjectUniqueName4 = Ticketing.Services\\Ticketing.Services.csproj
+		SccProjectName4 = Ticketing.Services
+		SccLocalPath4 = Ticketing.Services
+		SccProjectUniqueName5 = Ticketing.WebHost\\Ticketing.WebHost.csproj
+		SccProjectName5 = Ticketing.WebHost
+		SccLocalPath5 = Ticketing.WebHost
+		SccProjectUniqueName6 = Ticketing.IoC\\Ticketing.IoC.csproj
+		SccProjectName6 = Ticketing.IoC
+		SccLocalPath6 = Ticketing.IoC
+	EndGlobalSection
+EndGlobal
